@@ -3,7 +3,7 @@
 utility for processing github oath scopes
 
 [![Build Status](https://travis-ci.org/jamestalmage/github-auth-scopes.svg)](https://travis-ci.org/jamestalmage/github-auth-scopes)
-[![Coverage Status](https://coveralls.io/repos/jamestalmage/github-auth-scopes/badge.svg)](https://coveralls.io/r/jamestalmage/github-auth-scopes)
+[![Coverage Status](https://coveralls.io/repos/jamestalmage/github-auth-scopes/badge.svg?branch=master)](https://coveralls.io/r/jamestalmage/github-auth-scopes?branch=master)
 
 ```javascript
 var ghScopes = require('github-oath-scopes');
