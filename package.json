@@ -1,7 +1,7 @@
 {
   "name": "github-oauth-scopes",
   "version": "0.0.1",
-  "description": "github oauth scopes with descriptions",
+  "description": "utility for processing github oath scopes",
   "main": "index.js",
   "scripts": {
     "test": "istanbul cover ./node_modules/mocha/bin/_mocha"
@@ -20,9 +20,12 @@
   "bugs": {
     "url": "https://github.com/jamestalmage/github-auth-scopes/issues"
   },
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "homepage": "https://github.com/jamestalmage/github-auth-scopes#readme",
   "devDependencies": {
+    "coveralls": "^2.11.2",
     "istanbul": "^0.3.17",
     "mocha": "^2.2.5"
   }
